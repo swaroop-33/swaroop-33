@@ -67,3 +67,13 @@ https://www.linkedin.com/in/jyothi-swaroop-poluri/
 
 GitHub:
 https://github.com/swaroop-33
+
+
+
+---
+
+## GitHub Stats
+
+![Swaroop's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swaroop-33\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swaroop-33\&layout=compact\&theme=tokyonight)
