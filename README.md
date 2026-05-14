@@ -2,6 +2,8 @@
 
 AI & Data Science Engineer focused on building practical AI-driven applications, NLP systems, and deployment-oriented data solutions.
 
+---
+
 ## Technical Focus
 
 * Natural Language Processing (NLP)
@@ -10,27 +12,53 @@ AI & Data Science Engineer focused on building practical AI-driven applications,
 * AI Applications
 * Backend APIs & Deployment
 
+---
+
 ## Tech Stack
+
+### Languages
 
 * Python
 * SQL
-* Pandas & NumPy
+* JavaScript
+
+### Data Science & AI
+
+* Pandas
+* NumPy
+* NLP
+* TF-IDF
+* Machine Learning
+
+### Deployment & Tools
+
 * FastAPI
+* GitHub
+* Vercel
 * Power BI
-* Git & GitHub
+
+---
+
+## Featured Projects
+
+### NLP Text Summarization Platform
+
+Deployment-oriented NLP application using TF-IDF vectorization and preprocessing workflows for extractive summarization.
+
+### Dictionary API Web Application
+
+Interactive API-integrated dictionary platform with responsive frontend workflows and real-time word retrieval.
+
+---
 
 ## Current Goals
 
 * Building modern AI applications
-* Improving AI engineering workflows
-* Creating deployment-ready projects
-* Strengthening NLP & backend systems
+* Improving NLP engineering workflows
+* Learning scalable AI architectures
+* Developing deployment-ready systems
 
-## Featured Projects
-
-* NLP Text Summarization System
-* API-Integrated Dictionary Web App
-* AI/Data Analytics Projects
+---
 
 ## Connect With Me
 
