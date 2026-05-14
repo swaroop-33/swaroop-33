@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Jyothi Swaroop Poluri
 
-<!--
-**swaroop-33/swaroop-33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Data Science Engineer focused on building practical AI-driven applications, NLP systems, and deployment-oriented data solutions.
 
-Here are some ideas to get you started:
+## Technical Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Natural Language Processing (NLP)
+* Machine Learning
+* Data Analytics
+* AI Applications
+* Backend APIs & Deployment
+
+## Tech Stack
+
+* Python
+* SQL
+* Pandas & NumPy
+* FastAPI
+* Power BI
+* Git & GitHub
+
+## Current Goals
+
+* Building modern AI applications
+* Improving AI engineering workflows
+* Creating deployment-ready projects
+* Strengthening NLP & backend systems
+
+## Featured Projects
+
+* NLP Text Summarization System
+* API-Integrated Dictionary Web App
+* AI/Data Analytics Projects
+
+## Connect With Me
+
+LinkedIn:
+https://www.linkedin.com/in/jyothi-swaroop-poluri/
+
+GitHub:
+https://github.com/swaroop-33
